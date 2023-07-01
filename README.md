@@ -22,6 +22,7 @@ set of words according to their part of speech.
 ## Technologies
  - Frontend
    - ReactJS
+     
  - Backend
    - NodeJS
    - ExpressJS
