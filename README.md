@@ -20,9 +20,9 @@ set of words according to their part of speech.
     - npm run server
 
 ## Technologies
- Frontend
+ - Frontend
    - ReactJS
- Backend
+ - Backend
    - NodeJS
    - ExpressJS
 
