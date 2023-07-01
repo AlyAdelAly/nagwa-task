@@ -1,4 +1,4 @@
-## Nagwa-Task
+# Nagwa-Task
 
 ## Description
 In English language, words can be categorized according to their syntactic functions, which is known as "Part of Speech".
