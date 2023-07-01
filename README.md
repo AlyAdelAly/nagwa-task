@@ -15,9 +15,9 @@ set of words according to their part of speech.
     - npm run start
 
   - Backend:
-   - cd server
-   - npm install
-   - npm run server
+    - cd server
+    - npm install
+    - npm run server
 
 ## Technologies
  #Frontend
